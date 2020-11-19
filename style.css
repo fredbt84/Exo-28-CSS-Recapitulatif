@@ -1,0 +1,24 @@
+.bleu {
+    color: blue;
+}
+
+.police {
+    font-family: "Courier New";
+}
+
+.centrer {
+    text-align: center;
+}
+
+.taille {
+    font-size: 50px;
+}
+
+.jaune {
+    background-color: yellow;
+}
+
+.bordure {
+    border: 1px solid blue;
+    width: 200px;
+}
